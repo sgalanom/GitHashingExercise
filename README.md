@@ -1,0 +1,1 @@
+Git hashing exercise project!
